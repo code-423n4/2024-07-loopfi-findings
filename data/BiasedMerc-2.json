@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "GaugeV3.sol incorrectly calls IGearStakingV3",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/2"
+}
