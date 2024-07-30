@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "AuraVault::_chainlinkSpot doesn't perform safety checks on chainlink answer",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/6"
+}
