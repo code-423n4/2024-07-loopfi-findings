@@ -16,5 +16,5 @@ jobs:
         uses: code-423n4/repo-moderator@main
         with:
           github-token: ${{ secrets.ACTIONS_TOKEN }}
-          sponsor-team-slug: "2024-06-loopfi-sponsors"
+          sponsor-team-slug: "2024-07-loopfi-sponsors"
           allowed-labels: "sponsor confirmed, sponsor disputed, sponsor acknowledged"
