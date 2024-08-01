@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "CDPVault::_modifyPosition will revert if a rewardController is utilised",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/17"
+}
