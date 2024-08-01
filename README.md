@@ -66,9 +66,9 @@ Judges have the ultimate discretion in determining validity and severity of issu
 
 ## 2. Respond to curated Low-risk submissions
 
-### [Low-risk submissions →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report"%2C"sponsor+confirmed"%2C"sponsor+acknowledged"%2C"sponsor+disputed"+)
+### [Low-risk submissions →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report"%2C"withdrawn+by+warden"%2C"sponsor+confirmed"%2C"sponsor+acknowledged"%2C"sponsor+disputed")
 
-<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report")</sup>
+<sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"QA+%28Quality+Assurance%29"+-label%3Aunsatisfactory%2Cgrade-c%2C"insufficient+quality+report"%2C"withdrawn+by+warden")</sup>
 
 - Leave a comment for the judge on any reports you consider to be particularly high quality.
 - Add the `sponsor disputed` label to any reports that you think should be completely disregarded by the judge, i.e. the report contains no valid findings at all.
@@ -101,4 +101,4 @@ If several findings are inextricably related (e.g. two potential exploits of the
 1. Within a repo in your own GitHub organization, create a pull request for each finding.
 2. Link the PR to the issue that it resolves within your audit findings repo. (If the issue in question has duplicates, please link to your PR from the open/primary issue.)
 
-This will allow for complete transparency in showing the work of mitigating the issues found in the audit. 
+This will allow for complete transparency in showing the work of mitigating the issues found in the audit.
