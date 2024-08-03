@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "novamanbg",
+  "risk": "3",
+  "title": "An infinite loop in `MultifeeDistribution.sol` exit() function",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/21"
+}
