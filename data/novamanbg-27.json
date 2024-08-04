@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "novamanbg",
+  "risk": "2",
+  "title": "`manualStopEmissionsFor` in ChefIncentiveController calculates outdated pending rewards",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/27"
+}
