@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "PoolV3::withdraw doesn't have slippage checked, but withdraw has adjustable withdrawal fee",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/25"
+}
