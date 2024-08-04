@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "BalancerOracle::update() utilises totalSupply of Balancer Pool, which may not be accurate for all pools",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/26"
+}
