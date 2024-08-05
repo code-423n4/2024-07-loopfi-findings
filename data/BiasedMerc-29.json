@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "BiasedMerc",
+  "risk": "2",
+  "title": "ChefIncentivesController::checkAndProcessEligibility may not refresh even if set to true",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/29"
+}
