@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "novamanbg",
+  "risk": "2",
+  "title": "Missing staleness checks in `AuraVault.sol`",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/31"
+}
