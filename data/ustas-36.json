@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "ustas",
+  "risk": "2",
+  "title": "`CDPVault.modifyCollateralAndDebt()` is available on pause (no `whenNotPaused` modifier)",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/36"
+}
