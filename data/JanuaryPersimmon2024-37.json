@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "JanuaryPersimmon2024",
+  "risk": "2",
+  "title": "Due to missing whenNotPaused modifiers on \"borrow\" and \"repay\" CDPVault's functions, users can borrow and repay despite of emergency conditions being set-up by the PAUSER role",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/37"
+}
