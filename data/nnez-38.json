@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "Lack of slippage check while depositing to ERC4626 Vault in `PositionAction4626.sol._onDeposit` could lead to users' fund loss",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/38"
+}
