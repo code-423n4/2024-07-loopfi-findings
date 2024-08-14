@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "gumgumzum",
+  "risk": "3",
+  "title": "Positions are not liquidatable when `collateral * spotPrice * liquidationDiscount >= debt > collateral * spotPrice`",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/48"
+}
