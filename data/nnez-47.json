@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "EligibilityDataProvider uses incorrect price to convert user's total debt value to USD could lead underestimation of `requiredUsdValue`",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/47"
+}
