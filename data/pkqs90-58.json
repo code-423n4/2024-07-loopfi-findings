@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "Liquidation penalty should be taken from liquidator instead of from position.",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/58"
+}
