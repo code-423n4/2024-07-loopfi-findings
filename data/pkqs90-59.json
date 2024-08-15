@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "BalancerOracle calculates BPT price incorrectly",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/59"
+}
