@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "2",
+  "title": "`decreaseLever` doesn't repay the fee",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/111"
+}
