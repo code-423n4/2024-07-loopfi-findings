@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "`PositionAction.sol#onCreditFlashLoan()` does not repay flashloan fees, causing all `decreaseLever()` functions to be unusable.",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/52"
+}
