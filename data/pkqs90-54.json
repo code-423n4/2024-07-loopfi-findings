@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "`PoolV3.sol` does not handle loss (bad debt) correctly, the loss is only paid by the last users who withdraw from `PoolV3.sol`.",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/54"
+}
