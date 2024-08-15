@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "2",
+  "title": "`increaseLever` incorrectly attempts to deposit multiple times in PositionAction4626 and to incorrect address",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/114"
+}
