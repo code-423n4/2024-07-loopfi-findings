@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "3",
+  "title": "`PoolV3.sol` withdraw fees are sent to `StakingLPEth.sol` contract as WETH, which is not accessible.",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/53"
+}
