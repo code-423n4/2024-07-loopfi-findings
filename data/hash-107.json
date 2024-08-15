@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "3",
+  "title": "`_newRewards` uses block.timestamp instead of endtime for reward calculation always",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/107"
+}
