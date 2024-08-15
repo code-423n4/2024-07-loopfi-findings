@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "2",
+  "title": "Pause functionality is bypassed by calling `modifyCollateralAndDebt` directly",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/92"
+}
