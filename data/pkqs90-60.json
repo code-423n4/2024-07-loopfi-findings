@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "`liquidatePosition()` can be called when bad debt occurs, allowing users to liquidate a debt partially, which is unexpected.",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/60"
+}
