@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "3",
+  "title": "loss/profit accounting is done incorrectly inside `liquidatePositionBadDebt`",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/96"
+}
