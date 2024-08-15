@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "It is nearly impossble for Liquidators to use `liquidatePosition()` to fully pay off a non bad-debt position.",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/62"
+}
