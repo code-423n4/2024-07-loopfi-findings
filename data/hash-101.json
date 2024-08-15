@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "2",
+  "title": "Normal liquidation can be performed during bad debt periods resulting in leftover debts",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/101"
+}
