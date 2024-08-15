@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "nnez",
+  "risk": "3",
+  "title": "Attacker can abuse `_checkMinShares` by manipulaing `MIN_SHARES` price to prevent other users from withdrawing their staked lpETH",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/49"
+}
