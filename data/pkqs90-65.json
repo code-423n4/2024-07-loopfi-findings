@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "Attackers can deposit 1wei of lpETH in StakingLPEth and lock 1e16 lpETH of other users.",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/65"
+}
