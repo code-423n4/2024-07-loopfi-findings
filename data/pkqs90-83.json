@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "`PositionAction4626.sol#_onDecreaseLever` should send back unused poolTokens if exitPool is used.",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/83"
+}
