@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "hash",
+  "risk": "2",
+  "title": "Usage of `lastEligibleStatus` can cause user to miss out on rewards on `manualStopEmissionsFor` invocation",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/121"
+}
