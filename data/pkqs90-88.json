@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "`AuraVault.sol` `_chainlinkSpot()` and `_getAuraSpot()` does not check for stale results.",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/88"
+}
