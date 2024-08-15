@@ -1,0 +1,8 @@
+{
+  "contest": 415,
+  "handle": "pkqs90",
+  "risk": "2",
+  "title": "MultiFeeDistribution.sol aggregates unlockTime by AGGREGATION_EPOCH, which may end up locking tokens for another 6 days.",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/78"
+}
