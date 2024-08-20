@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Agontuk",
+  "risk": "2",
+  "title": "Unclaimed Rewards Handling Issue in `AuraVault` Contract Functions (`AuraVault::deposit`, `AuraVault::mint`, `AuraVault::withdraw`, `AuraVault::redeem`)",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/218",
+  "originalIssueId": 262,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/262"
+}
