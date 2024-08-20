@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "liquidationPenalty can incur bad debt from an undercollaterized position.",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/198",
+  "originalIssueId": 363,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/363"
+}
