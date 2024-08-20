@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "crypticdefense",
+  "risk": "3",
+  "title": "Liquidation discount incentivizes self-liquidations to avoid paying full debt, causing a loss for the protocol and lenders",
+  "issueId": 400,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/400",
+  "originalIssueId": 453,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/453"
+}
