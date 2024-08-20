@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "Suboptimal Borrowing Conditions not checked in `setInterestRateModel` Function. ",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/134",
+  "originalIssueId": 707,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/707"
+}
