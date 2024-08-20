@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "`AuraVault::_chainlinkSpot` can result in stale prices",
+  "issueId": 516,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/516",
+  "originalIssueId": 59,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/59"
+}
