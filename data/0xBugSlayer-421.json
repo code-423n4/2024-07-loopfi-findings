@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xBugSlayer",
+  "risk": "2",
+  "title": "absence of access control in `AuraVault`",
+  "issueId": 421,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/421",
+  "originalIssueId": 406,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/406"
+}
