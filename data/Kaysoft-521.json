@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "Chainlink price feed `updatedAt` timestamp not validated for price staleness",
+  "issueId": 521,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/521",
+  "originalIssueId": 42,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/42"
+}
