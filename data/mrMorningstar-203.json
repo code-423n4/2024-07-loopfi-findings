@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "mrMorningstar",
+  "risk": "3",
+  "title": "Increasing leverage with flashloan is not done correctly",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/203",
+  "originalIssueId": 327,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/327"
+}
