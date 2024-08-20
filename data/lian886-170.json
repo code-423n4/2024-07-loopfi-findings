@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "lian886",
+  "risk": "3",
+  "title": "There is a calculation error in AuraVault::redeem().",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/170",
+  "originalIssueId": 492,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/492"
+}
