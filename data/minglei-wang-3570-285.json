@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "minglei-wang-3570",
+  "risk": "3",
+  "title": "AuraVault is vulnerable to ERC4626 inflation attack",
+  "issueId": 285,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/285",
+  "originalIssueId": 685,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/685"
+}
