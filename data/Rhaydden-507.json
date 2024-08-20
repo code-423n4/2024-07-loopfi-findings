@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Users will not be able to withdraw assets from the Silo upon cooldown rescission",
+  "issueId": 507,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/507",
+  "originalIssueId": 103,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/103"
+}
