@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Spearmint",
+  "risk": "2",
+  "title": "Attackers can frontrun reward accumulation in the StakingLPEth contract to steal rewards unfairly from users currently in the pool",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/230",
+  "originalIssueId": 183,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/183"
+}
