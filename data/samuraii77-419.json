@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "samuraii77",
+  "risk": "3",
+  "title": "Not converting to shares when minting profit upon liquidations",
+  "issueId": 419,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/419",
+  "originalIssueId": 409,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/409"
+}
