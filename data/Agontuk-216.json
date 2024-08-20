@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Agontuk",
+  "risk": "2",
+  "title": "Incorrect Token Transfer Calculation in `EXACT_OUT` Swaps May Lead to Financial Discrepancies (`SwapAction::swap`)",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/216",
+  "originalIssueId": 268,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/268"
+}
