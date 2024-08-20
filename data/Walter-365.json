@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Walter",
+  "risk": "2",
+  "title": "Cooldown Reset Issue in `cooldownAssets` and `cooldownShares` Functions of `StakingLPEth` Contract",
+  "issueId": 365,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/365",
+  "originalIssueId": 526,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/526"
+}
