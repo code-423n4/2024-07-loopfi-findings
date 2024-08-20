@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "peanuts",
+  "risk": "2",
+  "title": "SwapAction.transferAndSwap lacks payable function",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/200",
+  "originalIssueId": 357,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/357"
+}
