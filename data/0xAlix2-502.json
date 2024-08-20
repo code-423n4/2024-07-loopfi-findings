@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "`ChainlinkOracle::_authorizeUpgrade` doesn't check the status of the oracle before upgrade",
+  "issueId": 502,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/502",
+  "originalIssueId": 120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/120"
+}
