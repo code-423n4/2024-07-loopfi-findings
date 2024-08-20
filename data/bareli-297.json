@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "Many function work without when whenNotPaused",
+  "issueId": 297,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/297",
+  "originalIssueId": 657,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/657"
+}
