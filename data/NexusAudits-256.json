@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Inaccurate Interest Accrual Due to block.number Usage",
+  "issueId": 256,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/256",
+  "originalIssueId": 757,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/757"
+}
