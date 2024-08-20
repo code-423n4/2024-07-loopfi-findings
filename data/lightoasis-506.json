@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "lightoasis",
+  "risk": "2",
+  "title": "Chainlink oracle will return the wrong price for asset if the underlying aggregator hits minAnswer.",
+  "issueId": 506,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/506",
+  "originalIssueId": 104,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/104"
+}
