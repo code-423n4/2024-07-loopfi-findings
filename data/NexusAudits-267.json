@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Index Misalignment in updateLeverJoin Function",
+  "issueId": 267,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/267",
+  "originalIssueId": 739,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/739"
+}
