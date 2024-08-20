@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "`CDPVault::liquidatePositionBadDebt` incorrectly calculates the `debt loss`, causing incorrect accounting within `PoolV3` and more treasury shares to burn",
+  "issueId": 394,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/394",
+  "originalIssueId": 465,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/465"
+}
