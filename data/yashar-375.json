@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "yashar",
+  "risk": "2",
+  "title": "Users are able to deposit and withdraw even when the CDPVault is paused",
+  "issueId": 375,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/375",
+  "originalIssueId": 500,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/500"
+}
