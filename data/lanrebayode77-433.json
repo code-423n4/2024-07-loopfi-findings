@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "lanrebayode77",
+  "risk": "2",
+  "title": "Pool is not updated in manualStopEmissionFor()",
+  "issueId": 433,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/433",
+  "originalIssueId": 373,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/373"
+}
