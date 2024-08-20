@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "Incorrect address is used as `spender` for ERC20 permit signature verification",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/152",
+  "originalIssueId": 603,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/603"
+}
