@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Eeyore",
+  "risk": "2",
+  "title": "Griefing of last user withdrawal from StakingLPEth vault",
+  "issueId": 520,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/520",
+  "originalIssueId": 45,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/45"
+}
