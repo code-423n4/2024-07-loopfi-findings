@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "samuraii77",
+  "risk": "2",
+  "title": "Dust positions can be left out or unexpected reverts can occur upon liquidations",
+  "issueId": 418,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/418",
+  "originalIssueId": 412,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/412"
+}
