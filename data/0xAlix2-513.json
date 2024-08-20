@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xAlix2",
+  "risk": "2",
+  "title": "Incorrect position passed in `PositionAction4626::_onDecreaseLever` forcing it to always revert",
+  "issueId": 513,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/513",
+  "originalIssueId": 72,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/72"
+}
