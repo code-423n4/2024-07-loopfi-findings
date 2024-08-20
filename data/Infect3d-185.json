@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Infect3d",
+  "risk": "2",
+  "title": "In `CDPVault` Users can Borrow During Pauses but Liquidators cannot Liquidate, Allowing Users To Open Positions Which Might Become Bad Debt But Cannot be Liquidated",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/185",
+  "originalIssueId": 421,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/421"
+}
