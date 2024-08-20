@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "zhaojohnson",
+  "risk": "3",
+  "title": "Deprecated return value from chainlink is used",
+  "issueId": 446,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/446",
+  "originalIssueId": 330,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/330"
+}
