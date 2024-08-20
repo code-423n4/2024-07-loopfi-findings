@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Unauthorized token relocking in `_withdrawExpiredLocksFor` allows fund locking without user consent",
+  "issueId": 362,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/362",
+  "originalIssueId": 534,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/534"
+}
