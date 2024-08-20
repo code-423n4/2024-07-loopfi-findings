@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "Unclaimed reward could become stuck in `MultiFeeDistribution` once the reward token is removed",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/153",
+  "originalIssueId": 598,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/598"
+}
