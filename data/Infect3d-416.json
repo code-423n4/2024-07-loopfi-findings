@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Infect3d",
+  "risk": "3",
+  "title": "Fees Paid During Flashloan Repayment Are Not Accounted In the `expectedLiquidity_` ",
+  "issueId": 416,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/416",
+  "originalIssueId": 417,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/417"
+}
