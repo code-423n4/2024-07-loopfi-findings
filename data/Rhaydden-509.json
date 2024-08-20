@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Rhaydden",
+  "risk": "3",
+  "title": "Inability to perform partial liquidations in `liquidatePositionBadDebt` leads to inefficient handling of bad debt",
+  "issueId": 509,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/509",
+  "originalIssueId": 96,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/96"
+}
