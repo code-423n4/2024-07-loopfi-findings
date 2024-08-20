@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "Cooldown Period Extension on Subsequent Staking",
+  "issueId": 354,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/354",
+  "originalIssueId": 546,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/546"
+}
