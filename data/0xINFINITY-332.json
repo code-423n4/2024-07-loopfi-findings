@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xINFINITY",
+  "risk": "3",
+  "title": "Users interacting with `TransferAction::_transferFrom` via proxy with approval type `permit` can lose their funds.",
+  "issueId": 332,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/332",
+  "originalIssueId": 590,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/590"
+}
