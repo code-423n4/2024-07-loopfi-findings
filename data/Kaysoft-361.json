@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Kaysoft",
+  "risk": "3",
+  "title": "Attacker can manipulate the AuraVault.sol's price per share so that early users get zero or lesser shares",
+  "issueId": 361,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/361",
+  "originalIssueId": 535,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/535"
+}
