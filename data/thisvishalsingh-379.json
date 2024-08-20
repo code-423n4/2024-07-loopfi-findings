@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "thisvishalsingh",
+  "risk": "3",
+  "title": "Incorrect debt calculation in `calcDecrease` leading to improper liquidations and asset loss",
+  "issueId": 379,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/379",
+  "originalIssueId": 483,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/483"
+}
