@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "silver_eth",
+  "risk": "2",
+  "title": "The addition of liquidation penalty could leave a debt position completely uncollaterized ",
+  "issueId": 364,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/364",
+  "originalIssueId": 527,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/527"
+}
