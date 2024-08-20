@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xINFINITY",
+  "risk": "2",
+  "title": "`AuraVault::_chainlinkSpot` has integration issues where it might return stale or incorrect results",
+  "issueId": 473,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/473",
+  "originalIssueId": 216,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/216"
+}
