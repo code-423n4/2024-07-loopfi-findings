@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Kaysoft",
+  "risk": "2",
+  "title": "PoolAction.sol#exit(...) can be used by an attacker to exit other users because the exit(...) function accepts  `from` parameter as input from users to use in the ERC20.transferFrom",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/141",
+  "originalIssueId": 661,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/661"
+}
