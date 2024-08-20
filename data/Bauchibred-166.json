@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Bauchibred",
+  "risk": "2",
+  "title": "Having no minimum borrow would lead to liquidators having no incentive to liquidate small positions",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/166",
+  "originalIssueId": 512,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/512"
+}
