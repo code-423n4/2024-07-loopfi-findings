@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "`AuraVault` reward calculation can be incorrect due to insufficient Chainlink `latestRoundData()` check",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/173",
+  "originalIssueId": 459,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/459"
+}
