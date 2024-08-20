@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "CDPVault.calDecrease() calculates ```newCumulativeIndex``` wrongly, as a result, either the borrower/the protocol will lose funds. ",
+  "issueId": 480,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/480",
+  "originalIssueId": 204,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/204"
+}
