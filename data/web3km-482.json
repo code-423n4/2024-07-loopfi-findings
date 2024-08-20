@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "web3km",
+  "risk": "2",
+  "title": "Missing staleness check when trying to fetch the price from chainlink in AuraVault",
+  "issueId": 482,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/482",
+  "originalIssueId": 190,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/190"
+}
