@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Trooper",
+  "risk": "2",
+  "title": "Anyone can stop reward emissions in ChefIncentivesController",
+  "issueId": 242,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/242",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/65"
+}
