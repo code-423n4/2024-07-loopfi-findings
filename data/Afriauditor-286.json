@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Afriauditor",
+  "risk": "3",
+  "title": "Unauthorized Access to Deposit and Withdraw Functions When Contract is Paused",
+  "issueId": 286,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/286",
+  "originalIssueId": 684,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/684"
+}
