@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Lack of slippage control in withdraw and redeem Functions",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/258",
+  "originalIssueId": 755,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/755"
+}
