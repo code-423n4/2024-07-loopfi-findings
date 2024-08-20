@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Last staker may lose MIN_SHARES funds in StakingLPEth",
+  "issueId": 456,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/456",
+  "originalIssueId": 310,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/310"
+}
