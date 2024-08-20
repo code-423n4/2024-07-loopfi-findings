@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "ParthMandale",
+  "risk": "2",
+  "title": "`CDPVault::liquidatePosition` may revert even when paying full repayAmount, if the newDebt amount calculated is less than `vaultConfig.debtFloor` amount",
+  "issueId": 252,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/252",
+  "originalIssueId": 767,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/767"
+}
