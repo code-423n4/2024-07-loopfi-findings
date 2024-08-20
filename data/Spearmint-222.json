@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Spearmint",
+  "risk": "2",
+  "title": "When PoolV3 is paused, borrowers will not be able to repay their loan by calling `CDPVault.repay()`, this will unfairly lead to interest accumulation and can lead to unfair liquidation once unpaused",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/222",
+  "originalIssueId": 231,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/231"
+}
