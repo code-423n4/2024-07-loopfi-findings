@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Trooper",
+  "risk": "3",
+  "title": "Wrong conversion of shares in PoolV3 so lenders dont earn yield",
+  "issueId": 244,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/244",
+  "originalIssueId": 61,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/61"
+}
