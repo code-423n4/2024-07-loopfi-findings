@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Incorrect Access Control in updateQuotaRevenue",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/125",
+  "originalIssueId": 769,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/769"
+}
