@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xpiken",
+  "risk": "2",
+  "title": "`PoolV3#repayCreditAccount()` use incorrect share converting function to calculate profit and loss",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/150",
+  "originalIssueId": 605,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/605"
+}
