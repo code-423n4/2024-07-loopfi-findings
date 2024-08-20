@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "rscodes",
+  "risk": "2",
+  "title": "bug in `claim` allows users who are disqualified to claim their previously earned emissions",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/123",
+  "originalIssueId": 780,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/780"
+}
