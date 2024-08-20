@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Spearmint",
+  "risk": "2",
+  "title": "CDPVault will hold a lot of Pendle LP tokens as collateral, which will generate PENDLE incentives and reward tokens BUT the vault does not have a method to redeem these rewards",
+  "issueId": 491,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/491",
+  "originalIssueId": 157,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/157"
+}
