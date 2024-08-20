@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "m4k2",
+  "risk": "3",
+  "title": "Multi-Token Permit Vulnerability: Silent Failures and Signature Mismatches in TransferAction",
+  "issueId": 209,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/209",
+  "originalIssueId": 303,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/303"
+}
