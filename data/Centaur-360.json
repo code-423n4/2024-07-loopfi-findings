@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Centaur",
+  "risk": "2",
+  "title": "Omission of ::msg.value Handling in internal Pool Functions",
+  "issueId": 360,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/360",
+  "originalIssueId": 536,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/536"
+}
