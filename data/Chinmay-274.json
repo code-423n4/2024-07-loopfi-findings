@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Chinmay",
+  "risk": "3",
+  "title": "Wrong check used for determining bad debt",
+  "issueId": 274,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/274",
+  "originalIssueId": 713,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/713"
+}
