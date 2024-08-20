@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "0xpiken",
+  "risk": "3",
+  "title": "`CDPVault#liquidatePosition()` doesn't provide slippage protection on liquidated collateral",
+  "issueId": 317,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/317",
+  "originalIssueId": 617,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/617"
+}
