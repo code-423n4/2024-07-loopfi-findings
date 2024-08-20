@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "BalancerOracle is not applicable for some pools.",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/202",
+  "originalIssueId": 329,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/329"
+}
