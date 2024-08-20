@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Inaccurate pool quota revenue calculation causes underreported earnings in `PoolQuotaKeeperV3`",
+  "issueId": 144,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/144",
+  "originalIssueId": 644,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/644"
+}
