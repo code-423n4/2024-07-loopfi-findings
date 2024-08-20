@@ -1,0 +1,10 @@
+{
+  "contest": 415,
+  "handle": "zhaojohnson",
+  "risk": "2",
+  "title": "Improper bad debt process in PoolV3",
+  "issueId": 457,
+  "issueUrl": "https://github.com/code-423n4/2024-07-loopfi-findings/issues/457",
+  "originalIssueId": 309,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-loopfi-validation/issues/309"
+}
